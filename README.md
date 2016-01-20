@@ -1,0 +1,3 @@
+# Grails
+
+First simple application
